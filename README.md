@@ -6,9 +6,9 @@ Using Terraform infrastructure-as-code, create a Virtual Network and Virtual Mac
 
 Prerequisites:
 
-Azure Subscription with contributer access or higher
-Azure CLI 2.8 or higher
-Terraform 0.12 or higher
+Azure Subscription with contributer access or higher.
+Azure CLI 2.8 or higher.
+Terraform 0.12 or higher.
 
 Copy or download and extract the source files from this repository.
 
